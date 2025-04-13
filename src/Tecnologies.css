@@ -1,0 +1,77 @@
+.tecnologies{
+    display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  gap: 25px 25px;
+  align-items: flex-start;
+}
+
+.tecnology{
+    font-family: 'YourSansSerifFont', sans-serif;
+    color: whitesmoke;
+    font-weight: bold;
+    font-size: 40px;
+    flex: 1 100%;
+    margin-top: 150px;
+    margin-block-end: 40px; 
+
+}
+
+.heading1{
+    font-family: 'YourSansSerifFont', sans-serif;
+    color: whitesmoke;
+    font-weight: bold;
+    font-size: 25px;
+    flex: 1 80%; 
+    align-self: start; 
+   
+}
+.box{
+    width: 1000px;
+    height: 20px;
+}
+.circle{
+    font-family: 'YourSansSerifFont', sans-serif;
+    background: linear-gradient(to right, #6a5acd, #00ced1);
+    color: white;
+    border: none;
+    border-radius: 30px;
+    padding: 8px 420px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    cursor: pointer;
+    transition: transform 0.2s;
+       
+}
+.advance{
+    font-family: 'YourSansSerifFont', sans-serif;
+    color: whitesmoke;
+    font-weight: bold;
+    font-size: 15px;
+    flex:1 20%;
+    margin-top: -30px;
+    margin-left: 900px;  
+}
+.regularcircle{
+    font-family: 'YourSansSerifFont', sans-serif;
+    background: linear-gradient(to right, #6a5acd, #00ced1);
+    color: white;
+    border: none;
+    border-radius: 30px;
+    padding: 8px 280px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    cursor: pointer;
+    transition: transform 0.2s;
+
+}
+.beginercircle{
+    font-family: 'YourSansSerifFont', sans-serif;
+    background: linear-gradient(to right, #6a5acd, #00ced1);
+    color: white;
+    border: none;
+    border-radius: 30px;
+    padding: 8px 140px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    cursor: pointer;
+    transition: transform 0.2s;
+}
+

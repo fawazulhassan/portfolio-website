@@ -7,6 +7,18 @@
   pointer-events: none;
 }
 
+.body {
+  align-self: left;
+  display: flex;
+  flex-direction: row;
+  max-height: 700px;
+  
+}
+
+.main-body{
+  margin-left: 350px;
+}
+
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
     animation: App-logo-spin infinite 20s linear;
@@ -32,7 +44,9 @@
   from {
     transform: rotate(0deg);
   }
+
   to {
     transform: rotate(360deg);
   }
 }
+

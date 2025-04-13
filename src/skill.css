@@ -1,0 +1,35 @@
+.skills{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    gap: 25px 25px;
+}
+.skill{
+    font-family: 'YourSansSerifFont', sans-serif;
+    color: whitesmoke;
+    font-weight: bold;
+    font-size: 40px;
+    flex: 1 100%;
+    margin-top: 150px;
+    margin-block-end: 40px; 
+}
+.box1{
+    width: 300px;
+    height: 50px;
+    
+}
+.smallcircle{
+    width: 20px;
+    height: 20px;
+    background: linear-gradient(to right, #6a5acd, #00ced1);
+    border-radius: 50%;
+ 
+}
+.listofskills{
+    font-family: 'YourSansSerifFont', sans-serif;
+    color: whitesmoke;
+    font-weight: bold;
+    font-size: 20px;
+    margin-top: -35px;
+    margin-left: 40px;
+}

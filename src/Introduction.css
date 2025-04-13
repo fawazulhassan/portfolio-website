@@ -1,0 +1,102 @@
+.first {
+    font-family: 'YourSansSerifFont', sans-serif;
+    background: linear-gradient(to right, #6a5acd, #00ced1);
+    -webkit-background-clip: text;
+    color: transparent;
+    font-weight: bold;
+    font-size: 45px;
+    line-height: 40px;
+    display: block;
+    margin: 2;
+    text-align: left;
+    margin-top: 260px;
+  
+  
+  }
+  .side{
+    max-height: fit-content;
+  }
+  
+  .secound {
+    font-family: 'YourSansSerifFont', sans-serif;
+    color: whitesmoke;
+    font-weight: bold;
+    font-size: 45px;
+    line-height: 0px;
+    display: block;
+    margin: 2;
+    text-align: left;
+  
+  }
+  
+  .discription {
+    font-size: 13.5px;
+    color:#9CA3AF; 
+    margin-top: 70px;
+    text-align: left;
+    font-family: 'YourSansSerifFont', sans-serif;
+  
+  
+  }
+  
+  .CVbutton {
+    font-family: 'YourSansSerifFont', sans-serif;
+    background: linear-gradient(to right, #6a5acd, #00ced1);
+      color: white;
+      border: none;
+      border-radius: 30px;
+      padding: 20px 35px;
+      box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+      cursor: pointer;
+      transition: transform 0.2s;
+      
+      margin-top: 16px;
+      font-size: 13.5px;
+      text-align: left;
+      display: block;
+      margin-top: 60px;
+  
+  }
+  .circle1 {
+    width: 430px;
+    height: 430px;
+    background: #3663c000;
+    border-radius: 50%;
+    margin-top: 60px;
+    margin-left: 70px;
+    border: 0.1px solid #47daff;
+    position: relative;
+    left: -265px;
+    top: 190px;
+     
+  }
+  .circle2 {
+    width: 130px;
+      height: 130px;
+      background: linear-gradient(to right, #6a5acd, #00ced1);
+      border-radius: 50%;
+      margin-top: 60px;
+      margin-left: 70px;
+      position: relative;
+      left: 125px;
+      top: -220px; 
+  }
+  .circle3 {
+    width: 240px;
+      height: 240px;
+      background: linear-gradient(to right, #6a5acd, #00ced1);
+      border-radius: 50%;
+      margin-top: 60px;
+      margin-left: 70px;
+      position: relative;
+      left: -50px;
+      top: -570px;
+      border: 0.1px solid #47daff;
+    
+  }
+  .circle-image {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    border-radius: 50%;
+  }

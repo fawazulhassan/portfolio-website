@@ -1,0 +1,131 @@
+.aboutme{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    gap: 25px 25px;
+}
+.aboutmeheading{
+    font-family: 'YourSansSerifFont', sans-serif;
+    color: whitesmoke;
+    font-weight: bold;
+    font-size: 40px;
+    flex: 1 100%;
+    margin-top: 150px;
+    margin-block-end: 40px; 
+    flex: 1 100%;
+}
+.box2{
+    width: 800px;
+    height: 10px; 
+}
+.date1{
+    font-family: 'YourSansSerifFont', sans-serif;
+    color: whitesmoke;
+    font-weight: bold;
+    font-size: 20px;
+}
+.date2{
+    font-family: 'YourSansSerifFont', sans-serif;
+    color: whitesmoke;
+    font-weight: bold;
+    font-size: 20px;
+    margin-top: -43px;
+    margin-left: 240px;
+}
+.date3{
+    font-family: 'YourSansSerifFont', sans-serif;
+    color: whitesmoke;
+    font-weight: bold;
+    font-size: 20px;
+    margin-top: -43px;
+    margin-left: 470px;
+}
+.date4{
+    font-family: 'YourSansSerifFont', sans-serif;
+    color: whitesmoke;
+    font-weight: bold;
+    font-size: 20px;
+    margin-top: -43px;
+    margin-left: 720px;
+}
+
+
+.line{
+    width: 740px;
+    height: 5px;
+    background: whitesmoke;   
+}
+.smallcircle1{
+    width: 20px;
+    height: 20px;
+    background: linear-gradient(to right, #6a5acd, #00ced1);
+    border-radius: 50%;
+    margin-top: -7px;
+    margin-left: -1px;
+}
+.smallcircle2{
+    width: 20px;
+    height: 20px;
+    background: linear-gradient(to right, #6a5acd, #00ced1);
+    border-radius: 50%;
+    margin-top: -37px;
+    margin-left: 250px;
+}
+.smallcircle3{
+    width: 20px;
+    height: 20px;
+    background: linear-gradient(to right, #6a5acd, #00ced1);
+    border-radius: 50%;
+    margin-top: -35px;
+    margin-left: 480px;
+}
+.smallcircle4{
+    width: 20px;
+    height: 20px;
+    background: linear-gradient(to right, #6a5acd, #00ced1);
+    border-radius: 50%;
+    margin-top: -37px;
+    margin-left: 730px;
+}
+.box3{
+    width: 240px;
+    height: 250px;
+    margin-left: -760px;
+    margin-top: 20px;
+
+}
+
+
+.box4{
+    width: 240px;
+    height: 250px;
+    margin-left: -25px;
+    margin-top: 20px;
+    
+}
+
+.box5{
+    width: 240px;
+    height: 250px;
+    margin-left: -25px;
+    margin-top: 20px;
+    
+}
+
+.box6{
+    width: 240px;
+    height: 250px;
+    margin-left: -25px;
+    margin-top: 20px;
+    
+}
+
+.discriptionaboutme{
+    font-size: 13.5px;
+      color:#9CA3AF;
+      
+      
+      font-family: 'YourSansSerifFont', sans-serif;
+  
+  
+  }
