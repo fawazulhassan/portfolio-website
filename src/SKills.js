@@ -16,7 +16,7 @@ function Skills(){
             <div className="box1">
             <p className="smallcircle">      
             </p>
-            <p className="listofskills">Word press </p>
+            <p className="listofskills">Communication </p>
             </div>
 
             <div className="box1">
@@ -46,7 +46,7 @@ function Skills(){
             <div className="box1">
             <p className="smallcircle">      
             </p>
-            <p className="listofskills">RWD </p>
+            <p className="listofskills">Github </p>
             </div>
             
             

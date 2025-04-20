@@ -24,7 +24,7 @@ function Tecnologies(){
 
         <div className="box">
         <div className="heading1">
-            CSS,Sass & Bootstrap
+            CSS & Bootstrap
         </div>
         <p className="advance">
             Advance
@@ -63,7 +63,7 @@ function Tecnologies(){
 
         <div className="box">
         <div className="heading1">
-            Angular
+            Python
         </div>
         <p className="advance">
             Beginner

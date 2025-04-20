@@ -4,7 +4,7 @@ import './NavBar.css'; // Import the CSS file for styling
 function NavBar(){
   return (
     <nav className="navbar">
-      <div className="navbar-logo">I.M. portfolio</div>
+      <div className="navbar-logo">I.M. Fawaz</div>
       <ul className="navbar-menu">
         <li><a href="#projects">Projects</a></li>
         <li><a href="#tecnologies">Technologies</a></li>
